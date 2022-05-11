@@ -1,6 +1,6 @@
 
-import * as THREE from "../sc/three.module.js";
-import { OrbitControls } from "../sc/OrbitControls.js";
+import * as THREE from "https://1daveboy.github.io/ControlesdeOrbita/sc/three.module.js";
+import { OrbitControls } from "https://1daveboy.github.io/ControlesdeOrbita/sc/OrbitControls.js";
 
 
 var scene = new THREE.Scene();
